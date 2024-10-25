@@ -1,12 +1,15 @@
 # Sandboxels
 A falling sand simulation game.
 
-Play at [Sandboxels.R74n.com](https://sandboxels.r74n.com/).
+Play at [sandboxels.R74n.com](https://sandboxels.r74n.com/), or at the unofficial link[https://benji-pooh.github.io/sandboxelsbackup/](https://benji-pooh.github.io/sandboxelsbackup/).
 
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 
 ![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/wallpaper.png)
- 
+
+ Some info:
+
+ all_liquids.js appears to be broken, as well as some others. I reccomend disabling any mods that throw errors in the Dev Console.
 # Controls
  * Left Click = Draw pixels
  * Right Click = Erase pixels

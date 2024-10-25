@@ -1,7 +1,7 @@
 # Sandboxels
 A falling sand simulation game.
 
-Play at [sandboxels.R74n.com](https://sandboxels.r74n.com/), or at the unofficial link[https://benji-pooh.github.io/sandboxelsbackup/](https://benji-pooh.github.io/sandboxelsbackup/).
+Play at [sandboxels.R74n.com](https://sandboxels.r74n.com/), or at the unofficial link, [benji-pooh.github.io/sandboxelsbackup/](https://benji-pooh.github.io/sandboxelsbackup/).
 
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 

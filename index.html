@@ -14584,7 +14584,7 @@ behaviorRules = {
             }
             if (paused || pixelTicks !== lastPixelDraw) {
                 if (!drawPixels() && !paused) {
-                    logMessage("One or more of your mods are outdated and cannot render properly.");
+                    logMessage("One or more of your mods are outdated and cannot render properly. Maybe check the console for errors?");
                     togglePause();
                 }
                 lastPixelDraw = pixelTicks;

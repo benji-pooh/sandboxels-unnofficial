@@ -6,6 +6,8 @@ Play at [sandboxels.r74n.com](https://sandboxels.r74n.com/), or at my unofficial
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 
 ![A cityscape made in sandboxels](https://github.com/benji-pooh/sandboxels-unnofficial/blob/main/icons/wallpaper-old.png?raw=true)
+> *A cityscape made in sandboxels.*
+
 
  Some info that i have found and may be useful:
 

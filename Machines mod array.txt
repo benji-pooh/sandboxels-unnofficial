@@ -1,0 +1,1 @@
+["mods/logicgates.js","mods/betterSettings.js","mods/ExtraMachines.js","mods/betterModManager.js","mods/machines.js","mods/cursor_shapes.js","mods/customexplosion.js","mods/libpacman-v1.js","mods/libhooktick.js"]

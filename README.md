@@ -1,15 +1,15 @@
 # Sandboxels
 A falling sand simulation game.
 
-Play at [sandboxels.r74n.com](https://sandboxels.r74n.com/), or at the unofficial link, [benji-pooh.github.io/sandboxelsbackup/](https://benji-pooh.github.io/sandboxelsbackup/).
+Play at [sandboxels.r74n.com](https://sandboxels.r74n.com/), or at my unofficial link, [benji-pooh.github.io/sandboxelsbackup/](https://benji-pooh.github.io/sandboxelsbackup/).
 
 Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
 
-![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/wallpaper.png)
+![A cityscape made in sandboxels](https://github.com/benji-pooh/sandboxels-unnofficial/blob/main/icons/wallpaper-old.png?raw=true)
 
  Some info that i have found and may be useful:
 
- all_liquids.js appears to be broken, as well as some others. I reccomend disabling any mods that throw errors in the Dev Console.
+ `all_liquids.js` appears to be broken, as well as some others. I reccomend disabling any mods that throw errors in the Dev Console.
  
  I may try to edit and fix some mods since quite a lot of them are broken, and are dependent on other broken mods. Feel free to contribute if you would like to help! :)
  

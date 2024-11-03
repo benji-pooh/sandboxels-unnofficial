@@ -1,11 +1,11 @@
-# R74n Content License
+# R74N Content License
 
 > Version 1.1, February 2024
-> Original: https://R74n.com/license.txt
+> Original: https://R74N.com/license.txt/
 
-> Copyright (C) 2024 R74n
+> Copyright (C) 2024 R74N
 > All Rights Reserved
-> Original content hosted at: https://sandboxels.R74n.com/
+> Original content hosted at: https://sandboxels.R74N.com/
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#New_Pattern-2);
+      }
+
+      .cls-5 {
+        fill: url(#New_Pattern-4);
+      }
+
+      .cls-6 {
+        fill: url(#New_Pattern-3);
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: url(#New_Pattern);
+      }
+
+      .cls-3 {
+        stroke: #231f20;
+        stroke-width: 5px;
+      }
+    </style>
+    <pattern id="New_Pattern" data-name="New Pattern" x="0" y="0" width="15" height="15" patternTransform="translate(-3967.5 -3967.5) scale(.5)" patternUnits="userSpaceOnUse" viewBox="0 0 15 15">
+      <g>
+        <rect class="cls-1" width="15" height="15"/>
+        <line class="cls-3" x1="15.02" y1="29.98" x2="29.98" y2="15.02"/>
+        <line class="cls-3" x1=".02" y1="29.98" x2="14.98" y2="15.02"/>
+        <line class="cls-3" x1="-14.98" y1="29.98" x2="-.02" y2="15.02"/>
+        <line class="cls-3" x1="15.02" y1="14.98" x2="29.98" y2=".02"/>
+        <line class="cls-3" x1=".02" y1="14.98" x2="14.98" y2=".02"/>
+        <line class="cls-3" x1="-14.98" y1="14.98" x2="-.02" y2=".02"/>
+        <line class="cls-3" x1="15.02" y1="-.02" x2="29.98" y2="-14.98"/>
+        <line class="cls-3" x1=".02" y1="-.02" x2="14.98" y2="-14.98"/>
+        <line class="cls-3" x1="-14.98" y1="-.02" x2="-.02" y2="-14.98"/>
+      </g>
+    </pattern>
+    <pattern id="New_Pattern-2" data-name="New Pattern" patternTransform="translate(-11908 -3967.5) rotate(-180) scale(.5 -.5)" xlink:href="#New_Pattern"/>
+    <pattern id="New_Pattern-3" data-name="New Pattern" patternTransform="translate(-3967.5 -11900.5) scale(.5 -.5)" xlink:href="#New_Pattern"/>
+    <pattern id="New_Pattern-4" data-name="New Pattern" patternTransform="translate(-11908 -11900.5) rotate(-180) scale(.5)" xlink:href="#New_Pattern"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-2" cx="392.43" cy="501.21" r="1.11"/>
+      <rect class="cls-7" width="256" height="256"/>
+      <polygon class="cls-4" points="256 256 512 256 512 0 256 0 256 256"/>
+      <rect class="cls-6" y="256" width="256" height="256"/>
+      <polygon class="cls-5" points="256 256 512 256 512 512 256 512 256 256"/>
+    </g>
+  </g>
+</svg>
